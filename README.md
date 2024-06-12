@@ -19,3 +19,21 @@ Ensure that the program is run with appropriate permissions.
 Be cautious when manipulating remote processes, as it may lead to unintended consequences.
 Disclaimer
 This code is for educational purposes only. Use it responsibly and at your own risk.
+
+
+![VirusTotal](VirusTotal screen.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
