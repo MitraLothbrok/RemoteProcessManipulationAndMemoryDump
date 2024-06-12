@@ -21,7 +21,7 @@ Disclaimer
 This code is for educational purposes only. Use it responsibly and at your own risk.
 
 
-![VirusTotal](VirusTotal screen.png)
+![VirusTotal](VirusTotalscreen.png)
 
 
 
